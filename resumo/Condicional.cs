@@ -22,6 +22,25 @@ public class ExerciciosCondicionais
     if (num > 0) {
       Console.WriteLine("NÃO NEGATIVO");
     }
+
+    Console.WriteLine("=======================================================");
+  }
+
+    // Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.
+  public void Exercicio02()
+  {
+    Console.WriteLine("PAR OU IMPAR");
+    Console.WriteLine("Digite um número inteiro");
+    int num = int.Parse(Console.ReadLine());
+
+    if (num % 2 == 0) {
+      Console.WriteLine("PAR");
+    }
+    else {
+      Console.WriteLine("ÍMPAR");
+    }
+
+    Console.WriteLine("=======================================================");
   }
 
 }

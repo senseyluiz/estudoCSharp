@@ -20,3 +20,4 @@ var condicionais =  new ExerciciosCondicionais();
 // EXERCICIOS CONDICIONAIS;
 
 condicionais.Exercicio01();
+condicionais.Exercicio02();
