@@ -39,7 +39,6 @@ public class ExerciciosCondicionais
     else {
       Console.WriteLine("ÍMPAR");
     }
-
     Console.WriteLine("=======================================================");
   }
 
@@ -61,9 +60,30 @@ public class ExerciciosCondicionais
     else {
       Console.WriteLine("Não são Múltiplos");
     }
-
-
     Console.WriteLine("=======================================================");
+  }
+
+
+  /*Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.*/
+  public void Exercicio04()
+  {
+    Console.WriteLine("DURAÇÃO DO JOGO");
+    int horaInicial, horaFinal, duracao;
+    string[] horas;
+
+    Console.WriteLine("Digite a hora inicial e a hora final separado por espaço: ");
+    horas = Console.ReadLine().Split(" ");
+    horaInicial = int.Parse(horas[0]);
+    horaFinal = int.Parse(horas[1]);
+
+    if (horaInicial < horaFinal){
+      duracao = horaFinal - horaInicial;
+    }
+    else {
+      duracao = 24 - horaInicial + horaFinal;
+    }
+
+    Console.WriteLine($"O Jogo durou {duracao} Hora(s)");
   }
 
 }
