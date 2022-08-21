@@ -1,4 +1,5 @@
 using System;
+using System.Globalization;
 
 
 namespace Condicionais;
@@ -84,6 +85,47 @@ public class ExerciciosCondicionais
     }
 
     Console.WriteLine($"O Jogo durou {duracao} Hora(s)");
+    Console.WriteLine("=======================================================");
+  }
+
+  /* Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar. */
+
+  public void Exercicio05()
+  {
+    Console.WriteLine("VALOR A PAGAR");
+    Console.WriteLine("CÓDIGO    ESPECIFICAÇÃO       PREÇO");
+    Console.WriteLine("-------------------------------------");
+    Console.WriteLine(" 1        Cachorro Quente     R$ 4.00");
+    Console.WriteLine(" 2        X-Salada            R$ 4.50");
+    Console.WriteLine(" 3        X-Bacon             R$ 5.00");
+    Console.WriteLine(" 4        Torrada Simples     R$ 2.00");
+    Console.WriteLine(" 5        Refrigerante        R$ 1.50");
+
+    Console.WriteLine("Digite o código e a quantidade do produto separado por espaço");
+    string[] dados = Console.ReadLine().Split(" ");
+    int cod = int.Parse(dados[0]);
+    int qtde = int.Parse(dados[1]);
+    double totalPagar, precoProduto = 0.00;
+
+    if( cod == 1){
+      precoProduto = 4.00;
+    }
+    else if( cod == 2){
+      precoProduto = 4.50;
+    }
+    else if( cod == 3){
+      precoProduto = 5.00;
+    }
+    else if( cod == 4){
+      precoProduto = 2.00;
+    }
+    else if( cod == 5){
+      precoProduto = 1.50;
+    }
+
+    totalPagar = qtde * precoProduto;
+
+    Console.WriteLine("TOTAL: R$ " + totalPagar.ToString("F2", CultureInfo.InvariantCulture));
   }
 
 }
