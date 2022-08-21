@@ -126,6 +126,7 @@ public class ExerciciosCondicionais
     totalPagar = qtde * precoProduto;
 
     Console.WriteLine("TOTAL: R$ " + totalPagar.ToString("F2", CultureInfo.InvariantCulture));
+    Console.WriteLine("=======================================================");
   }
 
   /* Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”. */
@@ -153,10 +154,11 @@ public class ExerciciosCondicionais
     }    
     else{
       Console.WriteLine("Fora de intervalo");
-    }    
+    }
+    Console.WriteLine("=======================================================");    
   }
 
-  /* Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).
+    /* Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).
     Se o ponto estiver na origem, escreva a mensagem “Origem”.
     Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a
     situação. */
@@ -175,6 +177,14 @@ public class ExerciciosCondicionais
         Console.WriteLine("ORIGEM");
       }
 
+      if(x > 0 || x < 0 && y == 0.0){
+        Console.WriteLine("Eixo X");
+      }
+
+      if(y > 0 || y < 0 && y == 0.0){
+        Console.WriteLine("Eixo Y");
+      }
+
       if (x > 0 && y > 0){
         Console.WriteLine("Q1");
       }
@@ -190,6 +200,6 @@ public class ExerciciosCondicionais
       if (x > 0 && y < 0){
         Console.WriteLine("Q4");
       }
+    Console.WriteLine("=======================================================");
     }
-
 }
