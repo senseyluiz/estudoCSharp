@@ -1,0 +1,15 @@
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/bin/Debug/net6.0/resumo
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/bin/Debug/net6.0/resumo.deps.json
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/bin/Debug/net6.0/resumo.runtimeconfig.json
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/bin/Debug/net6.0/resumo.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/bin/Debug/net6.0/resumo.pdb
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/obj/Debug/net6.0/resumo.csproj.AssemblyReference.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/obj/Debug/net6.0/resumo.GeneratedMSBuildEditorConfig.editorconfig
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/obj/Debug/net6.0/resumo.AssemblyInfoInputs.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/obj/Debug/net6.0/resumo.AssemblyInfo.cs
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/obj/Debug/net6.0/resumo.csproj.CoreCompileInputs.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/obj/Debug/net6.0/resumo.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/obj/Debug/net6.0/refint/resumo.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/obj/Debug/net6.0/resumo.pdb
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/obj/Debug/net6.0/resumo.genruntimeconfig.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/resumo/obj/Debug/net6.0/ref/resumo.dll
