@@ -24,4 +24,5 @@ var condicionais =  new ExerciciosCondicionais();
 // condicionais.Exercicio03();
 // condicionais.Exercicio04();
 // condicionais.Exercicio05();
-condicionais.Exercicio06();
+// condicionais.Exercicio06();
+condicionais.Exercicio07();
