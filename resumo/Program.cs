@@ -1,14 +1,22 @@
 ﻿using System;
 using System.Globalization;
 using EstruturaSequencial;
+using Condicionais;
 
 // RESUMO
 
-var exercicios = new Exercicios();
+// var sequenciais = new ExerciciosSequenciais();
+var condicionais =  new ExerciciosCondicionais();
 
-// exercicios.Exercicio01();
-// exercicios.Exercicio02();
-// exercicios.Exercicio03();
-// exercicios.Exercicio04();
-// exercicios.Exercicio05();
-exercicios.Exercicio06();
+// EXERCICIOS SEQUENCIAIS
+
+// sequenciais.Exercicio01();
+// sequenciais.Exercicio02();
+// sequenciais.Exercicio03();
+// sequenciais.Exercicio04();
+// sequenciais.Exercicio05();
+// sequenciais.Exercicio06();
+
+// EXERCICIOS CONDICIONAIS;
+
+condicionais.Exercicio01();

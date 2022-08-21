@@ -5,7 +5,7 @@ using System.Globalization;
 namespace EstruturaSequencial;
 
 
-public class Exercicios
+public class ExerciciosSequenciais
 {
   //Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma mensagem explicativa.
   public void Exercicio01()
