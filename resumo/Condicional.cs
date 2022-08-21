@@ -43,4 +43,27 @@ public class ExerciciosCondicionais
     Console.WriteLine("=======================================================");
   }
 
+  /*Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Nao sao Multiplos", indicando se os valores lidos são múltiplos entre si. Atenção: os números devem poder ser digitados em ordem crescente ou decrescente.*/
+
+  public void Exercicio03()
+  {
+    Console.WriteLine("VERIFICA MÚLTIPLOS");
+    int a, b;
+    Console.WriteLine("Digite um número inteiro para A: ");
+    a = int.Parse(Console.ReadLine());
+
+    Console.WriteLine("Digite um número inteiro para B: ");
+    b = int.Parse(Console.ReadLine());
+
+    if (a % b == 0 || b % a == 0){
+      Console.WriteLine("São Múltiplos");
+    }
+    else {
+      Console.WriteLine("Não são Múltiplos");
+    }
+
+
+    Console.WriteLine("=======================================================");
+  }
+
 }
