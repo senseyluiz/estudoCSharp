@@ -47,6 +47,8 @@ class Program
 
     Console.WriteLine("EXERCICIO 02");
 
+    // Fazer um programa para ler nome e salário de dois funcionários. Depois, mostrar o salário médio dos funcionários.
+
     Funcionario funcionario1, funcionario2;
     double media;
 
@@ -68,6 +70,25 @@ class Program
     media = (funcionario1.Salario + funcionario2.Salario) / 2.0;
 
     Console.WriteLine("Média salarial ===> R$ " + media.ToString("F2",CultureInfo.InvariantCulture));
+
+    Console.WriteLine("==================================");
+
+    // EXERCICIO 03
+    /* Fazer um programa para ler os valores da largura e altura de um retângulo. Em seguida, mostrar na tela o valor de sua área, perímetro e diagonal. Usar uma classe como mostrado no projeto ao lado. */
+    Console.WriteLine();
+    Console.WriteLine("Exercicio 03");
+    Console.WriteLine("CALCULO DO RETANGULO");
+    Retangulo retangulo = new();
+    Console.WriteLine("Entre com a largura e altura do retângulo: ");
+    Console.Write("Altura: ");
+    retangulo.Altura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+    Console.Write("Largura: ");
+    retangulo.Largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+    Console.WriteLine("ÁREA: " + retangulo.Area().ToString("F2", CultureInfo.InvariantCulture));
+    Console.WriteLine("PERIMETRO " + retangulo.Perimetro().ToString("F2", CultureInfo.InvariantCulture));
+    Console.WriteLine("DIAGONAL: " + retangulo.Diagonal().ToString("F2", CultureInfo.InvariantCulture));
 
     Console.WriteLine("==================================");
 
