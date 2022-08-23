@@ -92,5 +92,34 @@ class Program
 
     Console.WriteLine("==================================");
 
+    // EXERCICIO 04
+    Console.WriteLine();
+    Console.WriteLine("Exercicio 04");
+    Console.WriteLine("SALÁRIO DO FUNCIONÁRIO");
+
+    FuncionarioEmpresa funcionarioEmpresa = new();
+    
+    Console.Write("Nome: ");
+    funcionarioEmpresa.Nome = Console.ReadLine();
+
+    Console.Write("Salário Bruto: ");
+    funcionarioEmpresa.SalarioBruto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+    Console.Write("Imposto: ");
+    funcionarioEmpresa.Imposto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+    Console.WriteLine("Funcionario: " + funcionarioEmpresa);
+    Console.WriteLine();
+    Console.Write("Digite a porcentagem para aumentar o salário: ");
+    double aumento = double.Parse(Console.ReadLine(), CultureInfo.InstalledUICulture);
+
+    funcionarioEmpresa.AumentaSalario(aumento);
+
+    Console.WriteLine("===============================================");
+    Console.WriteLine(funcionarioEmpresa.SalarioBruto);
+    Console.WriteLine("===============================================");
+    Console.WriteLine();
+    Console.WriteLine("Funcionario Atualizado: " + funcionarioEmpresa);
+    Console.WriteLine("===============================================");
   }
 }
