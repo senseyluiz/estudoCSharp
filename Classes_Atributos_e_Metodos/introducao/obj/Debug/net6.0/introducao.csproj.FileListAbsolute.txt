@@ -1,0 +1,15 @@
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/bin/Debug/net6.0/introducao
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/bin/Debug/net6.0/introducao.deps.json
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/bin/Debug/net6.0/introducao.runtimeconfig.json
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/bin/Debug/net6.0/introducao.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/bin/Debug/net6.0/introducao.pdb
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/obj/Debug/net6.0/introducao.csproj.AssemblyReference.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/obj/Debug/net6.0/introducao.GeneratedMSBuildEditorConfig.editorconfig
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/obj/Debug/net6.0/introducao.AssemblyInfoInputs.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/obj/Debug/net6.0/introducao.AssemblyInfo.cs
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/obj/Debug/net6.0/introducao.csproj.CoreCompileInputs.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/obj/Debug/net6.0/introducao.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/obj/Debug/net6.0/refint/introducao.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/obj/Debug/net6.0/introducao.pdb
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/obj/Debug/net6.0/introducao.genruntimeconfig.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Classes_Atributos_e_Metodos/introducao/obj/Debug/net6.0/ref/introducao.dll
