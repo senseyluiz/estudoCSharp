@@ -1,0 +1,15 @@
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/bin/Debug/net6.0/ContaBancaria
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/bin/Debug/net6.0/ContaBancaria.deps.json
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/bin/Debug/net6.0/ContaBancaria.runtimeconfig.json
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/bin/Debug/net6.0/ContaBancaria.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/bin/Debug/net6.0/ContaBancaria.pdb
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/obj/Debug/net6.0/ContaBancaria.csproj.AssemblyReference.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/obj/Debug/net6.0/ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/obj/Debug/net6.0/ContaBancaria.AssemblyInfoInputs.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/obj/Debug/net6.0/ContaBancaria.AssemblyInfo.cs
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/obj/Debug/net6.0/ContaBancaria.csproj.CoreCompileInputs.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/obj/Debug/net6.0/ContaBancaria.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/obj/Debug/net6.0/refint/ContaBancaria.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/obj/Debug/net6.0/ContaBancaria.pdb
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/obj/Debug/net6.0/ContaBancaria.genruntimeconfig.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/Construtores-palavra-this-sobrecarga-encapsulamento/ContaBancaria/obj/Debug/net6.0/ref/ContaBancaria.dll
