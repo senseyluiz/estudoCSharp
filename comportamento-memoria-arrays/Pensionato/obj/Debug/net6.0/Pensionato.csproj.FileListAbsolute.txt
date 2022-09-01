@@ -1,0 +1,15 @@
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/bin/Debug/net6.0/Pensionato
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/bin/Debug/net6.0/Pensionato.deps.json
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/bin/Debug/net6.0/Pensionato.runtimeconfig.json
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/bin/Debug/net6.0/Pensionato.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/bin/Debug/net6.0/Pensionato.pdb
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/obj/Debug/net6.0/Pensionato.csproj.AssemblyReference.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/obj/Debug/net6.0/Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/obj/Debug/net6.0/Pensionato.AssemblyInfoInputs.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/obj/Debug/net6.0/Pensionato.AssemblyInfo.cs
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/obj/Debug/net6.0/Pensionato.csproj.CoreCompileInputs.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/obj/Debug/net6.0/Pensionato.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/obj/Debug/net6.0/refint/Pensionato.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/obj/Debug/net6.0/Pensionato.pdb
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/obj/Debug/net6.0/Pensionato.genruntimeconfig.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Pensionato/obj/Debug/net6.0/ref/Pensionato.dll
