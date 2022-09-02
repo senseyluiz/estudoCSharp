@@ -1,0 +1,15 @@
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/bin/Debug/net6.0/Empresa
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/bin/Debug/net6.0/Empresa.deps.json
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/bin/Debug/net6.0/Empresa.runtimeconfig.json
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/bin/Debug/net6.0/Empresa.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/bin/Debug/net6.0/Empresa.pdb
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/obj/Debug/net6.0/Empresa.csproj.AssemblyReference.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/obj/Debug/net6.0/Empresa.GeneratedMSBuildEditorConfig.editorconfig
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/obj/Debug/net6.0/Empresa.AssemblyInfoInputs.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/obj/Debug/net6.0/Empresa.AssemblyInfo.cs
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/obj/Debug/net6.0/Empresa.csproj.CoreCompileInputs.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/obj/Debug/net6.0/Empresa.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/obj/Debug/net6.0/refint/Empresa.dll
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/obj/Debug/net6.0/Empresa.pdb
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/obj/Debug/net6.0/Empresa.genruntimeconfig.cache
+/home/trybe/Área de Trabalho/Cursos/CursoCsharpUdemy/comportamento-memoria-arrays/Empresa/obj/Debug/net6.0/ref/Empresa.dll
