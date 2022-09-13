@@ -41,11 +41,13 @@ for (int i = 1; i <= qtdContract; i++)
 
 }
 
+Console.WriteLine("================================================");
 Console.Write("Enter month and year to calculate income (MM/YYYY): ");
 string monthAndYear = Console.ReadLine();
 int month = int.Parse(monthAndYear.Substring(0, 2));
 int year = int.Parse(monthAndYear.Substring(3));
 
+Console.WriteLine();
 Console.WriteLine($"Name: {worker.Name} ");
 Console.WriteLine($"Department: {worker.Department.Name} ");
-Console.WriteLine($"Income for {monthAndYear}: {worker.Income(year, month)} ");
+Console.WriteLine($"Income for {monthAndYear}: {worker.Income(year, month).ToString("F2") } ");
